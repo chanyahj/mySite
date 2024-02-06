@@ -1,0 +1,38 @@
+header{
+    float:left;
+    width: 25%;
+}
+nav{
+    float: right;
+    margin: 2em 3em 0 0;
+    text-align: right;
+    width: 70%;
+}
+
+main{
+   clear: left;
+}
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+#container{
+    width: 80%;
+    margin: 0 auto;
+
+}
+footer nav{
+    text-align: center;
+    float: none;
+    color: #fff;
+   max-width: 100%;
+    margin: 0 auto 3em auto;
+}
+footer p{
+    text-align: center;
+    margin-bottom: 0;
+}
